@@ -36,6 +36,32 @@
       "title": "biryani",
       "id": 2
     }
+  ],
+  "top-pics":[
+    {
+      "image": "assets/images/items1.png",
+      "title": "Chicken Sandwich",
+      "subtitle": "indian bbq",
+      "ratting": "5.0",
+      "price": "25.00",
+      "id": 1
+    },
+    {
+      "image": "assets/images/items1.png",
+      "title": "Chicken Sandwich",
+      "subtitle": "indian bbq",
+      "ratting": "3.5",
+      "price": "25.00",
+      "id": 2
+    },
+    {
+      "image": "assets/images/items1.png",
+      "title": "Chicken Sandwich",
+      "subtitle": "indian bbq",
+      "ratting": "2.5",
+      "price": "25.00",
+      "id": 3
+    }
   ]
 }
 
